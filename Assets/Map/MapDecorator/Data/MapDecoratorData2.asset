@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71617fe2b6e35f6428af3a3dccc54a20, type: 3}
+  m_Name: MapDecoratorData2
+  m_EditorClassIdentifier: 
+  regionCount: 8
+  regionMaxHeights:
+  - 3.4028235e+38
+  - 200
+  - 150
+  - 100
+  - 50
+  - 0
+  - -50
+  - -100
+  - -3.4028235e+38
+  prefabInfos: []
