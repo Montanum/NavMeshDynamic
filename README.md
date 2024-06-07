@@ -7,9 +7,6 @@ The Navigation Mesh Dynamic Tool (NMD Tool) is an advanced solution designed to 
 ![PROJECT_POSTER](https://github.com/Montanum/NavMeshDynamic/assets/62666688/58983eff-e38d-47f4-96e6-fa664a77f33e)
 
 
-## PROJECT VIDEO
---VIDEO PLACEHOLDER
-
 ## Project Details
 **Title:** Navigation Mesh Dynamic Tool  
 **Supervisor:** Ali Seydi Keçeli  
